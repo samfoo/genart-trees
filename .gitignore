@@ -1,2 +1,4 @@
-*.png
+out-*.png
+out.png
 target/
+*.swp
