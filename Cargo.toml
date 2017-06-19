@@ -1,0 +1,13 @@
+[package]
+name = "trees"
+version = "0.1.0"
+authors = ["Sam Gibson <sam@ifdown.net>"]
+
+[dependencies]
+rand = "0.3"
+ndarray = "0.9.1"
+ndarray-rand = "*"
+
+[dependencies.cairo-rs]
+version = "0.1.3"
+features = ["png"]
